@@ -11,7 +11,7 @@ This repository contains the data and analysis related to the study on how physi
 🌟 If you find this resource helpful, please consider to star this repository
 
 
-![image](assets/metrics.jpg)
+![image](assets/Structure.jpg)
 
 
 Machine learning model performance with recursive feature elimination (a-f) Model performance metrics across different numbers of selected features (10-150 features): (a) AUC; (b) Accuracy; (c) Sensitivity; (d) Specificity; (e) F1 score; (f) PPV. Blue bars represent feature sets below the optimal number; red bars represent features at and above. Error bars indicate 95% confidence intervals. Model performance stabilises around 110 features.
